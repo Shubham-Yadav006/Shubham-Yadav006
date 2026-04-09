@@ -3,7 +3,7 @@
 🎓 **B.Sc. (Hons) Data Science & Artificial Intelligence**  
 🏫 **Indian Institute of Technology (IIT) Guwahati**  
 📊 **CGPA: 9.5 / 10**  
-💼 **Ex - SAP ERP Intern → Full-Time @ HCL Technologies**  
+💼 **Ex - SAP ERP Intern @ HCL Technologies**  
 📍 India  
 
 ---
