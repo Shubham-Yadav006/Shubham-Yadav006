@@ -59,7 +59,7 @@ I am currently focused on strengthening my **Data Science + AI fundamentals**, b
 - Created visual insights using Matplotlib charts and graphs.  
 
 📷 *Sample Visualization:*  
-![Data Visualization](will be available soon working on it ;-))
+(will be available soon working on it ;-))
 
 ---
 
@@ -70,7 +70,7 @@ I am currently focused on strengthening my **Data Science + AI fundamentals**, b
 - Focused on understanding data, model behavior, and predictions.  
 
 📷 *Model Workflow:*  
-![ML Pipeline](will be available soon working on it ;-))
+(will be available soon working on it ;-))
 
 ---
 
@@ -81,7 +81,7 @@ I am currently focused on strengthening my **Data Science + AI fundamentals**, b
 - Useful for real-world data preprocessing tasks.  
 
 📷 *Data Cleaning Flow:*  
-![CSV Processing](will be available soon working on it ;-))
+(will be available soon working on it ;-))
 
 ---
 
