@@ -58,16 +58,10 @@ I am currently focused on strengthening my **Data Science + AI fundamentals**, b
 - Cleaned and processed raw data using Pandas.  
 - Created visual insights using Matplotlib charts and graphs.  
 
-📷 Sample Visualizations:
+Want to see the Project :
 
-### Gender-wise Score Distribution
-![Gender Boxplot](https://github.com/Shubham-Yadav006/edulens-performance-intel/blob/main/insights/gender_boxplot.png)
-
-### Impact of Test Preparation
-![Test Prep Pie Chart](https://github.com/Shubham-Yadav006/edulens-performance-intel/blob/main/insights/test_prep_pie.png)
-
-### Subject-wise Performance Trend
-![Subject Line Chart](https://github.com/Shubham-Yadav006/edulens-performance-intel/blob/main/insights/subject_line_chart.png)
+### Please click below to move to the repository
+![edulens-performance-intel](https://github.com/Shubham-Yadav006/edulens-performance-intel)
 
 ---
 
