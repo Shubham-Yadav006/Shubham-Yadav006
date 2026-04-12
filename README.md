@@ -1,25 +1,30 @@
-# 👋 Hi, I'm Shubham Yadav
+<div align="center">
+
+## 👋 Heyy! I'm **Shubham Yadav**
 
 🎓 **B.Sc. (Hons) Data Science & Artificial Intelligence**  
 🏫 **Indian Institute of Technology (IIT) Guwahati**  
-📊 **CGPA: 9.5 / 10**  
-💼 **Ex - SAP ERP Intern @ HCL Technologies**  
-📍 India  
+📊 **CGPA:** 9.5 / 10  
+💼 **Ex – SAP ERP Intern @ HCL Technologies**  
+📍 **India**
+
+<img src="https://komarev.com/ghpvc/?username=Shubham-Yadav006&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-I am a **Data Science undergraduate at IIT Guwahati** with strong foundations in **Python, data analysis, and machine learning**.  
-I enjoy working with **real-world datasets**, extracting insights, visualizing data, and building **simple, effective predictive models**.
+I am a **Data Science undergraduate at IIT Guwahati** with strong foundations in **Python, data analysis, and machine learning basics**. I enjoy working with **real‑world datasets**, visualizing patterns, and building **simple, effective predictive models**.
 
-Through my internship at **HCLTech**, I gained hands-on exposure to **enterprise systems (SAP ERP)** and learned how large-scale professional software environments operate.
+During my internship at **HCLTech**, I gained hands‑on exposure to **SAP ERP systems** and learned how large‑scale professional software environments operate.
 
-I am currently focused on strengthening my **Data Science + AI fundamentals**, building practical projects, and growing step-by-step toward advanced AI systems.
+Currently, I am focused on strengthening **Data Science & AI fundamentals**, building practical projects, and growing step‑by‑step toward advanced AI systems.
 
 ---
 
-## 🧠 Areas of Interest  
+## 🧠 Areas of Interest
 
 - 📈 Data Analysis & Visualization  
 - 🤖 Machine Learning Fundamentals  
@@ -29,98 +34,114 @@ I am currently focused on strengthening my **Data Science + AI fundamentals**, b
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
-### 🔹 Languages  
-- Python 🐍  
-- SQL  
-- SAP ABAP  
+### 🔹 Languages
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SAP%20ABAP-009999?style=for-the-badge"/>
 
-### 🔹 Data Science & ML  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Scikit-learn (basic models)  
+### 🔹 Data Science & ML
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--learn-basic-F7931E?style=for-the-badge"/>
 
-### 🔹 Tools & Platforms  
-- Jupyter Notebook  
-- VS Code  
-- Git & GitHub  
-- Linux  
-
----
-
-## 📂 Featured Projects  
-
-### 📘 Student Performance Analysis System  
-📌 *Python | Pandas | Matplotlib*  
-- Analyzed academic datasets to identify performance trends.  
-- Cleaned and processed raw data using Pandas.  
-- Created visual insights using Matplotlib charts and graphs.  
-
-Want to see the Project :
-
-### Please click below to move to the repository
-![edulens-performance-intel](https://github.com/Shubham-Yadav006/edulens-performance-intel)
+### 🔹 Tools & Platforms
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge"/>
 
 ---
 
-### 📘 Basic Machine Learning Prediction Model  
-📌 *Python | Scikit-learn*  
-- Built simple supervised ML models (Linear / Logistic Regression).  
-- Trained and tested models on structured datasets such as Iris / Titanic.  
-- Focused on understanding data, model behavior, and predictions.  
+## 📂 ⭐ Featured Projects
 
-📷 *Model Workflow:*  
-(will be available soon working on it ;-))
+### 📘 **EduLens – Student Performance Analysis System**
+📌 *Python | Pandas | Matplotlib*
 
----
+- Analyzed student academic datasets to identify performance trends  
+- Cleaned and processed raw data using Pandas  
+- Created visual insights using Matplotlib  
 
-### 📘 CSV Data Cleaning & Reporting Tool  
-📌 *Python | Pandas*  
-- Developed a Python script to clean messy CSV datasets.  
-- Generated summary statistics and structured output reports.  
-- Useful for real-world data preprocessing tasks.  
-
-📷 *Data Cleaning Flow:*  
-(will be available soon working on it ;-))
+🔗 Repository:  
+👉 https://github.com/Shubham-Yadav006/edulens-performance-intel
 
 ---
 
-## 💼 Experience  
+### 📘 **Basic Machine Learning Prediction Models**
+📌 *Python | Scikit‑learn*
 
-### 🏢 HCLTech – SAP ERP Intern  
-- Gained exposure to **SAP ERP systems** and enterprise business workflows.  
-- Worked with **SAP ABAP basics** and assisted functional/technical teams.  
-- Learned about **large-scale enterprise environments**, structured data handling, and professional software delivery practices.
+- Built supervised ML models (Linear & Logistic Regression)  
+- Trained on standard datasets such as Iris and Titanic  
+- Focused on data understanding and model behavior (project ongoing) 
 
----
-
-## 📜 Certifications  
-
-- ✅ Programming with Generative AI – IIT Guwahati  
-- ✅ Generative AI Fundamentals – Google  
-- ✅ SQL Certification – HackerRank  
+📷 Workflow visualization coming soon
 
 ---
 
-## 🏅 Leadership  
+## 💼 Experience
 
-### 🎓 Class Representative — IIT Guwahati  
-- Acted as liaison between faculty and students.  
-- Coordinated academic communication and issue resolution.  
-- Represented student concerns in an organized and professional manner.  
+### 🏢 **HCLTech — SAP ERP Intern**
+- Worked with SAP ERP systems and enterprise workflows  
+- Learned SAP ABAP basics  
+- Assisted functional and technical teams  
+- Gained exposure to professional software delivery environments  
+
+---
+
+## 📜 Certifications
+
+✅ Programming with Generative AI — **IIT Guwahati**  
+✅ Generative AI Fundamentals — **Google**  
+✅ SQL Certification — **HackerRank**
 
 ---
 
-## 📫 Let's Connect  
+## 🏅 Leadership
 
-- 🔗 **LinkedIn:** https://linkedin.com/in/shubhamskyhero  
-- 🧑‍💻 **GitHub:** https://github.com/Shubham-Yadav006  
-- 📧 **Email:** shubhamy@op.iitg.ac.in  
+🎓 **Class Representative — IIT Guwahati**
+- Liaison between faculty and students  
+- Coordinated academic communication  
+- Represented student concerns professionally  
 
 ---
+
+## 📈 Contribution Activity (GRAPH LIKE IMAGE)
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Yadav006&theme=react-dark&hide_border=true" />
+
+</div>
+
+---
+
+## ⚡ GitHub Streaks & Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Yadav006&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shubham-Yadav006&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Yadav006&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Let’s Connect
+
+🔗 **LinkedIn:** https://linkedin.com/in/shubhamskyhero  
+🧑‍💻 **GitHub:** https://github.com/Shubham-Yadav006  
+📧 **Email:** shubhamy@op.iitg.ac.in  
+
+---
+
+<div align="center">
 
 ⭐ *I believe in learning by building, staying honest about my skills, and improving every day.*  
-🚀 *This repository reflects my journey in Data Science & AI — more projects coming soon!*
-``
+🚀 *This profile reflects my journey in Data Science & AI — more coming soon!*
+
+</div>
