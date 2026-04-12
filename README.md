@@ -107,7 +107,7 @@ Currently, I am focused on strengthening **Data Science & AI fundamentals**, bui
 
 ---
 
-## 📈 Contribution Activity (GRAPH LIKE IMAGE)
+## 📈 Contribution Activity (GRAPH)
 
 <div align="center">
 
@@ -135,7 +135,7 @@ Currently, I am focused on strengthening **Data Science & AI fundamentals**, bui
 
 🔗 **LinkedIn:** https://linkedin.com/in/shubhamskyhero  
 🧑‍💻 **GitHub:** https://github.com/Shubham-Yadav006  
-📧 **Email:** shubhamy@op.iitg.ac.in  
+📧 **Email:** shubhamy@op.iitg.ac.in , shubhamskyhero@gmail.com
 
 ---
 
