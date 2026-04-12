@@ -37,21 +37,13 @@ Currently, I am focused on strengthening **Data Science & AI fundamentals**, bui
 ## 🛠 Tech Stack
 
 ### 🔹 Languages
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SAP%20ABAP-009999?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"> <img src="https://img.shields.io/badge/SAP%20ABAP-009999?style=for-the-badge">
 
 ### 🔹 Data Science & ML
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--learn-basic-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/> <img src="https://img.shields.io/badge/Scikit--learn-basic-F7931E?style=for-the-badge"/>
 
 ### 🔹 Tools & Platforms
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge"/>
 
 ---
 
@@ -141,7 +133,7 @@ Currently, I am focused on strengthening **Data Science & AI fundamentals**, bui
 
 <div align="center">
 
-⭐ *I believe in learning by building, staying honest about my skills, and improving every day.*  
+⭐ *I believe in learning by building, and improving every day.*  
 🚀 *This profile reflects my journey in Data Science & AI — more coming soon!*
 
 </div>
