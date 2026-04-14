@@ -43,7 +43,7 @@ Currently, I am focused on strengthening **Data Science & AI fundamentals**, bui
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/> <img src="https://img.shields.io/badge/Scikit--learn-basic-F7931E?style=for-the-badge"/>
 
 ### 🔹 Tools & Platforms
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge"/> <img src="https://img.shields.io/badge/GoogleColab-FCC624?style=for-the-badge"/>
 
 ---
 
