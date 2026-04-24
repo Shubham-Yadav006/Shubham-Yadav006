@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Heyy! I'm **Shubham Yadav**
+## 👋 Hey! I'm **Shubham Yadav**
 
 🎓 **B.Sc. (Hons) Data Science & Artificial Intelligence**  
 🏫 **Indian Institute of Technology (IIT) Guwahati**  
